@@ -7,7 +7,7 @@
 ║   > founder · builder · shipper                              ║
 ║   > full-stack · Go · TypeScript · ML                        ║
 ║   > based in athens, greece                                  ║
-║   > €170k raised · dragons' den greece alumni               ║
+║   > €170k raised · dragons' den greece alumni                ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
